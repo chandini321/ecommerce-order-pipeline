@@ -1,0 +1,5 @@
+google-cloud-pubsub
+fastavro
+Flask
+gunicorn
+google-cloud-firestore
